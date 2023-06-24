@@ -39,10 +39,10 @@ function Menu() {
   return (
     <div className={classes}>
       <p className={style.desc}>
-        <span className={style.line}>v4.0</span>
+        <span className={style.line}>ELONAI</span>
       </p>
       <p className={style.desc}>
-        <span className={style.line}>2003 — 2023</span>
+        <span className={style.line}>$ELON </span>
       </p>
       <hr className={separatorClasses} />
       <MenuTrigger />
