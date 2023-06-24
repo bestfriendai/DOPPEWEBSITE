@@ -39,7 +39,7 @@ function Menu() {
   return (
     <div className={classes}>
       <p className={style.desc}>
-        <span className={style.line}>ELONAI</span>
+        <span className={style.line}>0x0E9cc0F7E550BD43BD2af2214563C47699F96479</span>
       </p>
       <p className={style.desc}>
         <span className={style.line}>$ELON </span>
