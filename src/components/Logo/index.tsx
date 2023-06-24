@@ -50,14 +50,14 @@ function Logo() {
     <div className={classes}>
       <span className={style.light}>
         <span className={style.inner} onAnimationEnd={endAnimationHandler}>
-          They
+          ElonAI
         </span>
       </span>
       <span className={style.light}>
-        <span className={style.inner}>call me</span>
+        <span className={style.inner}>$Elon</span>
       </span>
       <span className={style.bold}>
-        <span className={style.inner}>Giulio</span>
+        <span className={style.inner}>On ETH</span>
       </span>
     </div>
   )
